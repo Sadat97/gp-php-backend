@@ -1,0 +1,6 @@
+{
+    "require": {
+        "slim/slim": "^3.12",
+        "bref/bref": "^0.4.1"
+            }
+}
